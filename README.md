@@ -2,7 +2,7 @@
 myPSRDist is a wrapper I created for PSRDist, that can be found here [here](https://tedwards2412.github.io/PSRdist/).
 
 ## Installation
-Tested on Ubuntu 22/04.5 LTS.
+Tested on Ubuntu 22.04.5 LTS.
 
 ```
 git clone https://github.com/jberteaud/myPSRdist
